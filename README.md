@@ -1,7 +1,7 @@
 ### Hi there 👋, I am a lover with statistics and deep learning
-- 🔭 I’m currently working on deep learning
-- 🌱 I’m currently learning something interesting: painting, basketball, and skiing.
-- ⚡ Fun fact: If you have ideas to add fun to your life, please share with me!  
+- 🔭 I’m currently working on statistical machine learning and deep learning
+- 🌱 I’m currently developing my hobbies: painting, basketball, and skiing.
+- ⚡ Fun fact: If you have ideas to paint a colorful life, please share with me!  
 - 📫 How to reach me: qilong.pan@kaust.edu.sa
 
 <!--
