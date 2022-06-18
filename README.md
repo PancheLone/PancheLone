@@ -1,6 +1,6 @@
-### Hi there 👋, I am a lover with statistics and deep learning
-- 🔭 I’m currently working on statistical machine learning and deep learning
-- 🌱 I’m currently developing my hobbies: painting, basketball, and skiing.
+### Hi there 👋, I am Q
+- 🔭 I’m currently working on statistical machine learning and its optimization
+- 🌱 I’m currently developing my hobbies: painting, basketball, and etc (to explore).
 - ⚡ Fun fact: If you have ideas to paint a colorful life, please share with me!  
 - 📫 How to reach me: qilong.pan@kaust.edu.sa
 
